@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401435219 source:d:\cbworkspace\ftpclient\ftpclnt.c
+	<stdio.h>
+	<winsock2.h>
+
